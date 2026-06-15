@@ -1,16 +1,17 @@
-## Hi there 👋
+# Ruby Supriyadi Portfolio
 
-<!--
-**RubySupriyadi/rubysupriyadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Personal portfolio website of Ruby Supriyadi.
 
-Here are some ideas to get you started:
+## About Me
+Store Crew | Production Support Operator | Event Volunteer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Microsoft Office
+- Production Operation
+- Customer Service
+- Quality Control
+
+## Contact
+Email: r.supriyadi1210@gmail.com
+Phone: 085817583627
+Location: Jakarta Utara, Indonesia
